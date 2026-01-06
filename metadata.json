@@ -1,0 +1,5 @@
+{
+  "name": "GeekFlavor Guide",
+  "description": "Interactive guide to Geek Bar flavors using AI and Google Search Grounding for accurate flavor profiles.",
+  "requestFramePermissions": []
+}
